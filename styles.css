@@ -1,0 +1,54 @@
+/* styles.css */
+body {
+    font-family: Lucida Sans Typewriter, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #98C2C8;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.banner {
+    background-image: url('banner-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.featured-films {
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #98C2C8;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
